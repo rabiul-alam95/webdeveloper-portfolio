@@ -96,12 +96,12 @@ nav a {
           margin-bottom: 20px;
 }
 
-.banner-discription {
-          font-size: 18px;
-          font-weight: 400;
+/* .banner-discription { */
+          /* font-size: 18px; */
+          /* font-weight: 400; */
           /* margin-top: 20px; */
           /* margin-bottom: 30px; */
-}
+
 /*main section styles*/
 main{
           max-width: 1140px;
