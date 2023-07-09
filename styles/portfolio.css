@@ -110,3 +110,16 @@ nav a {
           background: #FFF8F3;
           margin: 130px;
 }
+.about-info-container{
+          display: flex;
+          justify-content: space-around;
+}
+.about-info{
+          text-align: center;
+}
+
+/*main section styles*/
+main{
+          max-width: 11140px;
+          margin: 0 auto;
+}
